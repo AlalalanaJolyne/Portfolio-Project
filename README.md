@@ -1,2 +1,2 @@
 # Portfolio-Project
-My continuesly updating Portfolio website
+My continuously updating Portfolio website
