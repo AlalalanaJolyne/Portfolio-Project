@@ -1,0 +1,56 @@
+
+h1{
+    color: #49108B
+}
+
+
+#sum {
+    color: #140527;
+    font-size: 90%;
+    font-weight: 10;
+
+}
+
+.projectname {
+    color: #FFC0D9;
+    font-weight: 200;
+    background-color: #8ACDD7;
+    padding: 0px 10px;
+    border: solid 2px black;
+}
+
+.extrainfo {
+    color: black;
+    font-family: 'Lucida Sans';
+    font-size: larger;
+}
+
+p{
+    font-family: Arial;
+}
+
+div{
+    align-items: center;
+    border: solid #FFC0D9E0;
+    border-width: 10px 20px;
+    font-family: 'Preahvihear', sans-serif;
+    text-align: center;
+    background-color: #F9F9E0
+    
+}
+
+.indeximg{
+    height: 250px;
+    border: solid 5px grey;
+
+}
+
+.mainpagebutton {
+    color: #E26EE5;
+    font-family: 'Preahvihear', sans-serif;
+    font-weight: bold;
+    border: #140527 solid 1px;
+    padding: 4px;
+    background-color:antiquewhite
+
+}
